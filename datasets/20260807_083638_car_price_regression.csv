@@ -1,0 +1,21 @@
+Make,Model,Year,Mileage,FuelType,Transmission,EngineSize,Price
+Toyota,Corolla,2018,45000,Petrol,Manual,1.8,15500
+Honda,Civic,2019,32000,Petrol,Automatic,2.0,18200
+Ford,Focus,2017,58000,Diesel,Manual,1.5,12400
+BMW,3 Series,2020,22000,Diesel,Automatic,2.0,28500
+Audi,A4,2021,15000,Petrol,Automatic,2.0,32000
+Mercedes,C-Class,2019,28000,Diesel,Automatic,2.1,27800
+Volkswagen,Golf,2018,41000,Petrol,Manual,1.4,14900
+Hyundai,Elantra,2020,18000,Petrol,Automatic,2.0,17500
+Kia,Forte,2019,30000,Petrol,Automatic,2.0,16200
+Nissan,Sentra,2017,62000,Petrol,Automatic,1.8,11800
+Toyota,Camry,2021,12000,Hybrid,Automatic,2.5,26400
+Honda,Accord,2020,20000,Petrol,Automatic,1.5,23500
+Ford,Mustang,2018,35000,Petrol,Manual,5.0,29900
+Chevrolet,Malibu,2019,38000,Petrol,Automatic,1.5,15800
+Mazda,Mazda3,2020,21000,Petrol,Automatic,2.5,19100
+Subaru,Impreza,2018,49000,Petrol,Automatic,2.0,14500
+BMW,5 Series,2021,18000,Diesel,Automatic,3.0,41000
+Audi,A6,2020,25000,Petrol,Automatic,3.0,38500
+Mercedes,E-Class,2021,14000,Diesel,Automatic,3.0,44500
+Lexus,ES,2020,19000,Hybrid,Automatic,2.5,33800
